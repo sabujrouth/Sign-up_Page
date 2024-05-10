@@ -56,6 +56,31 @@ form {
     padding: 0px 50px;
 }
 
+h1 {
+    color: var(--grad-clr1);
+}
+
+social-container {
+    margin: 20px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 footer {
     position: absolute;
     left: 50%;
