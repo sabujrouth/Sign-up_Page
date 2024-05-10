@@ -64,6 +64,16 @@ social-container {
     margin: 20px 0px;
 }
 
+.social-container a {
+    border: 1px solid #DDD;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 5px;
+    height: 40px;
+    width: 40px;
+}
 
 
 
