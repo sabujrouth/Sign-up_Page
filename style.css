@@ -85,7 +85,10 @@ span {
     width: 100%;
 }
 
-
+input {
+    width: 100%;
+    padding: 12px 8px;
+}
 
 
 
