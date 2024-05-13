@@ -132,6 +132,11 @@ button {
     text-transform: uppercase;
 }
 
+.form-container button {
+    margin-top: 17px;
+    transition: 80ms ease-in;
+}
+
 
 
 
