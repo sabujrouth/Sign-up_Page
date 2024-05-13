@@ -153,6 +153,10 @@ button {
     z-index: 9;
 }
 
+#overlayBtn {
+    cursor: pointer;
+}
+
 
 
 
