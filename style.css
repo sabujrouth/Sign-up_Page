@@ -113,7 +113,18 @@ a {
     font-size: 14px;
     text-decoration: none;
     margin: 15px 0px;
-    
+}
+
+a.forgot {
+    padding-bottom: 3px;
+    border-bottom: 2px solid #EEE;
+}
+
+button {
+    border-radius: 20px;
+    border: 1px solid var(--grad-clr1);
+    background: var(--grad-clr2);
+    color: #FFF;
 }
 
 
