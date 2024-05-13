@@ -125,6 +125,8 @@ button {
     border: 1px solid var(--grad-clr1);
     background: var(--grad-clr2);
     color: #FFF;
+    font-size: 12px;
+    font-weight: bold;
 }
 
 
