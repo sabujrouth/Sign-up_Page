@@ -137,6 +137,11 @@ button {
     transition: 80ms ease-in;
 }
 
+.form-container button:hover {
+    background: #FFF;
+    color: var(--grad-clr1);
+}
+
 
 
 
