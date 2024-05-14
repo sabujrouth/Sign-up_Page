@@ -163,6 +163,16 @@ button {
     height: 40px;
     border: 1px solid #FFF;
     background: transparent;
+    border-radius: 20px;
+}
+
+.overlay {
+    position: relative;
+    background: var(--linear-grad);
+    color: #FFF;
+    left: -150px;
+    height: 100%;
+    width: 250%;
 }
 
 
