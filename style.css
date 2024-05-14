@@ -181,7 +181,7 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: ;
+    flex-direction: column;
 }
 
 
