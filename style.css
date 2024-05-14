@@ -173,6 +173,15 @@ button {
     left: -150px;
     height: 100%;
     width: 250%;
+    transition: transform 0.6s ease-in-out;
+}
+
+.overlay-panel {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: ;
 }
 
 
