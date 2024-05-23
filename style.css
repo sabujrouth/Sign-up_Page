@@ -189,6 +189,29 @@ button {
     transition: 0.6s ease-in-out;
 }
 
+.overlay-left {
+    right: 60%;
+    transform: translateX(-12%);
+}
+
+.overlay-right {
+    right: 0;
+    transform: translateX(0%);
+}
+
+.overlay-panel h1 {
+    color: #FFF;
+}
+
+p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0.5px;
+}
+
+
+
 
 
 
