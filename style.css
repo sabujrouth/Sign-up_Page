@@ -208,6 +208,11 @@ p {
     font-weight: 300;
     line-height: 20px;
     letter-spacing: 0.5px;
+    margin: 25px 0px 35px;
+}
+
+.overlay-panel button {
+    border: none;
 }
 
 
