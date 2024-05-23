@@ -218,7 +218,21 @@ p {
     background-color: transparent;
 }
 
+.right-panel-active .overlay-container {
+    transform: translateX(-150%);
+}
 
+.right-panel-active .overlay {
+    transform: translateX(50%);
+}
+
+.right-panel-active .overlay-left {
+    transform: translateX(25%);
+}
+
+.right-panel-active .overlay-right {
+    transform: translateX(35%);
+}
 
 
 
