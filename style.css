@@ -200,7 +200,7 @@ button {
 }
 
 .overlay-panel h1 {
-    color: #FFF;
+    color: #ffffff;
 }
 
 p {
@@ -213,6 +213,8 @@ p {
 
 .overlay-panel button {
     border: none;
+    background-color: transparent;
+
 }
 
 
