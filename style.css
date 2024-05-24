@@ -43,7 +43,7 @@ body {
     z-index: 1;
 }
 
-sign-in-container {
+.sign-in-container {
     z-index: 2;
 }
 
@@ -60,7 +60,7 @@ h1 {
     color: var(--grad-clr1);
 }
 
-social-container {
+.social-container {
     margin: 20px 0px;
 }
 
